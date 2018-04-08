@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_electronic_town"
+            android:title="Electronic Town" />
+        <item
+            android:id="@+id/nav_photography"
+            android:title="Photography" />
+        <item
+            android:id="@+id/nav_offers"
+            android:title="Special Product" />
+        <item
+            android:id="@+id/nav_women"
+
+            android:title="Women Fashion" />
+        <item
+            android:id="@+id/nav_men"
+
+            android:title="Men Fashion" />
+        <item
+            android:id="@+id/nav_baby"
+
+            android:title="Baby Clothing" />
+        <item
+            android:id="@+id/nav_special"
+
+            android:title="Special Products" />
+    </group>
+
+</menu>
